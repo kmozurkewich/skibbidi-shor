@@ -1,6 +1,6 @@
 # Quantum Factoring with Shor's Algorithm
 
-This project implements Shor's algorithm to factor the number 77 using IBM Quantum's cloud service.
+This project implements Shor's algorithm to factor the number 77 using IBM Quantum's cloud service.  I create this PoC after using DWave's stack to factor arbitrary numbers in polynomial time.
 
 ## Prerequisites
 
